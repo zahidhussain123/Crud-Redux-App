@@ -1,0 +1,30 @@
+.addUser{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    margin-top:20px ;
+}
+
+.addUser input {
+  margin: 5px;
+}
+.addUser button {
+  margin-top: 10px;
+}
+
+.userFlex{
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  place-content: center;
+}
+
+.userCreate{
+  width: 300px;
+  /* padding: 10px 0px; */
+  margin: 12px;
+  text-align: center;
+  background-color: yellowgreen;
+  border-radius: 20px;
+}
+
